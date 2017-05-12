@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
 
     gemini->initSDL();
 
+
     // Convert 
     gemini->convertPixel(streamIndex, 6);
     gemini->clean();
